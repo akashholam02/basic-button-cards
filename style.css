@@ -1,0 +1,176 @@
+.headphone{
+    margin: 20px auto 20px auto;
+    padding: 10px 15px;
+    background-color: #A9B5DF;
+    border-top:4px solid #2C3930 ;
+    width: 200px;
+}
+.headphone-img{
+    width: 90px;
+    padding: 0 40px;
+    align-items: center;
+}
+.headphone-title{
+    text-align: center;
+    color: #2D336B;
+    font-weight: bolder;
+    font-size: larger;
+}
+.headphone-info{
+    padding: 5px;
+    color: #2D336B;
+    font-size: medium;
+}
+.headphone-btn{
+    display: flex;
+    background-color: #F2AE66;
+    color: #C30E59;
+    font-weight: bold;
+    border: 2px solid #000957;
+    padding: 5px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.iphone{
+    margin: 20px auto 20px auto;
+    padding: 10px 15px;
+    background-color: #F4CCE9;
+    border-bottom:4px solid #493D9E ;
+    width: 200px;
+}
+.iphone-img{
+    width: 90px;
+    padding: 0 40px;
+    align-items: center; 
+}
+.iphone-title{
+    text-align: center;
+    color: #56021F;
+    font-weight: bolder;
+    font-size: larger;
+}
+.iphone-info{
+    padding: 5px;
+    color: #56021F;
+    font-size: medium;
+}
+.iphone-btn1{
+    display: flex;
+    background-color: #B2A5FF;
+    color: #56021F;
+    font-weight: bold;
+    border: 2px solid #493D9E;
+    padding: 5px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.fridge{
+    margin: 20px auto 20px auto;
+    padding: 10px 15px;
+    background-color: #D1F8EF;
+    border-left:4px solid #493D9E ;
+    width: 200px;
+}
+.fridge-img{
+    width: 90px;
+    padding: 0 40px;
+    align-items: center; 
+}
+.fridge-title{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+}
+.fridge-info{
+    padding: 5px;
+    color: black;
+    font-size: medium;
+}
+.fridge-btn1{
+    display: flex;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 2px solid #493D9E;
+    padding: 5px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.shoe{
+    margin: 20px auto 20px auto;
+    padding: 10px 15px;
+    background-color: #77628C;
+    border-right:4px solid #493D9E ;
+    width: 200px;
+}
+.shoe-img{
+    width: 90px;
+    padding: 0 40px;
+    align-items: center; 
+}
+.shoe-title{
+    text-align: center;
+    color: #F7F1E5;
+    font-weight: bolder;
+    font-size: larger;
+}
+.shoe-info{
+    padding: 5px;
+    color: #F7F1E5;
+    font-size: medium;
+}
+.shoe-btn1{
+    display: flex;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: 2px solid #493D9E;
+    padding: 5px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.watch{
+    margin: 20px auto 20px auto;
+    padding: 10px 15px;
+    background-color: #FFF2AF;
+    border-right:4px solid #493D9E ;
+    width: 200px;
+}
+.watch-img{
+    width: 90px;
+    padding: 0 40px;
+    align-items: center; 
+}
+.watch-title{
+    text-align: center;
+    color: #493D9E;
+    font-weight: bolder;
+    font-size: larger;
+}
+.watch-info{
+    padding: 5px;
+    color: #493D9E;
+    font-size: medium;
+}
+.watch-btn1{
+    display: flex;
+    background-color: #B2A5FF;
+    color: #493D9E;
+    font-weight: bold;
+    border: 2px solid #493D9E;
+    padding: 5px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.price-shoe{
+    color: aqua;
+}
+.card{
+    margin-left: 30px;
+}
